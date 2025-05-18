@@ -7,7 +7,7 @@ import SubmitButton from "./SubmitButton";
 
 const App = () => {
   return (
-    <div id="main">App</div>
+    <h1>App</h1>
   )
 }
 
