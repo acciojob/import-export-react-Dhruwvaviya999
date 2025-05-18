@@ -7,7 +7,13 @@ import SubmitButton from "./SubmitButton";
 
 const App = () => {
   return (
-    <h1>App</h1>
+    <div className="main">
+        <h1>Welcome to our Site.</h1>
+        <Heading />
+        <InputQuery />
+        <SubHeading />
+        <SubmitButton />
+    </div>
   )
 }
 
